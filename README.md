@@ -52,11 +52,3 @@ pip install opencv-python numpy mediapipe wmi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to reach out for any questions or contributions! Happy coding! 🎉
-```
-
-### Notes:
-- You can customize the emojis and text to better fit your style or preferences.
-- Make sure to keep the repository updated with any additional features or changes you implement!
